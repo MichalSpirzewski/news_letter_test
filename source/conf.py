@@ -48,7 +48,7 @@ templates_path = ['_templates']
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'agogo'
+html_theme = 'scrolls'
 # html_theme = 'haiku'
 
 # Add any paths that contain custom static files (such as style sheets) here,

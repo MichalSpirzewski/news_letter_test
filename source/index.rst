@@ -14,3 +14,4 @@ Newsletter NCBJ!
    appendix
    new
    ogloszenia
+   konkurs
