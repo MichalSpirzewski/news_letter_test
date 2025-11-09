@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome Project Name's documentation!
+Newsletter NCBJ!
 =============================================
    .. wyniki
 
@@ -12,3 +12,5 @@ Welcome Project Name's documentation!
    :caption: Spis treści:
 
    appendix
+   new
+   ogloszenia

@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Załącznik'
-copyright = '2024, Project copyright'
-author = 'M. Spirzewski, J. Walkowiak, J. Sierchuła, M. Nowak'
+project = 'Newsletter'
+copyright = '2025, NCBJ'
+author = 'NCBJ'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
@@ -48,8 +48,8 @@ templates_path = ['_templates']
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-# html_theme = 'alabaster'
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'agogo'
+# html_theme = 'haiku'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -70,7 +70,7 @@ latex_elements = {
     'papersize' : 'a4',
 
     # The font size ('10pt', '11pt' or '12pt').
-    'pointsize': '11pt',
+    'pointsize': '10pt',
     # 'extraclassoptions': 'openany,twoside',
 
     # Additional stuff for the LaTeX preamble.
